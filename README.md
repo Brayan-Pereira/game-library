@@ -3,7 +3,7 @@
 Uma aplicação em React.js para gerenciar uma coleção de jogos que persiste os dados no local storage, evitando que eles se percam ao sair da página.
 
 Tela Inicial
-![Alt text](public/image.pngmage.png)
+![Alt text](public/image.png)
 
 Inputando Titulo, url da Imagem
 ![Alt text](public/image-1.png)
